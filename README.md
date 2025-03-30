@@ -1,6 +1,6 @@
 # Apple Stock Data Analysis
 
-This project analyzes Apple stock data using machine learning models to predict stock prices. It includes data preprocessing, exploratory data analysis (EDA), and the implementation of regression models such as Random Forest Regression.
+This project analyzes Apple stock data using machine learning models to predict stock prices. It includes data preprocessing, exploratory data analysis (EDA), and the implementation of regression models such as Random Forest Regression and Linear Regression
 
 ## Features
 
